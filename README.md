@@ -1,16 +1,13 @@
-### Hi there 👋
+# <code>Hi There, I am Jeggan ... 👋👋</code>
+<div align="center" >
 
-<!--
-**Jegan-Kunniya/Jegan-Kunniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <code>Visitor's count </code><br>
+  <img src="https://profile-counter.glitch.me/Jegan-Kunniya/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jegan-Kunniya&theme=github-light&hide_border=true&border_radius=4.3)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jegan-Kunniya)]()
+
+</div>
