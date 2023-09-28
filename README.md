@@ -1,4 +1,4 @@
-# <code>Hi There, I am Jeggan ... 👋👋</code>
+# <code>Hi There, I am Jegan Kunniya. Thanks for stopping by! 👋👋</code>
 <div align="center" >
 
 <p align="center"> 
