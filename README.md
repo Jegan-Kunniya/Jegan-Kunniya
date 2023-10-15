@@ -1,4 +1,8 @@
+<div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0172.gif" width="1920" height="5">
+
 # <code>Hi There, I am Jegan Kunniya. Thanks for stopping by! 👋👋</code>
+</div>
 <div align="center" >
 <!-- added
 
@@ -8,7 +12,8 @@
 
 <h2>  <code>  🚀 &nbsp;Some Tools I Have Used and Learned </code> </h2>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0172.gif" width="1920" height="5" style="margin-bottom: 30px;">
+
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="25" height="25"/>
@@ -48,7 +53,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="bash" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"  alt="bash" width="25" height="25"/>
 </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0172.gif" width="1920" height="5" style="margin-top: -90px;">
+
 
 <p align="center"> 
   <code>Visitor's count </code><br>
@@ -58,5 +63,5 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jegan-Kunniya&theme=github-dark&hide_border=true&border_radius=4.3)]()
 
 <!-- ![Snake animation](https://github.com/Jegan-Kunniya/Jegan-Kunniya/blob/output/github-contribution-grid-snake.svg) -->
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0172.gif" width="1920" height="5" style="margin-top: -100px;">
 </div>
