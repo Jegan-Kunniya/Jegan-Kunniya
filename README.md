@@ -63,5 +63,7 @@
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jegan-Kunniya&theme=github-dark&hide_border=true&border_radius=4.3)]()
 
 <!-- ![Snake animation](https://github.com/Jegan-Kunniya/Jegan-Kunniya/blob/output/github-contribution-grid-snake.svg) -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jegan-Kunniya&bg_color=161b22&color=0377fc&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0172.gif" width="1920" height="5" style="margin-top: -100px;">
 </div>
