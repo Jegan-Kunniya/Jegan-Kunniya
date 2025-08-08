@@ -14,8 +14,11 @@
 
 **Key Focus Areas:**
 - 🏗️ Enterprise Software Architecture
+
 - ☁️ Cloud-Native & Distributed Systems
+
 - 🔧 Platform Engineering & DevOps
+
 - 🤖 AI-Driven Development Solutions
 
 ---
@@ -23,10 +26,15 @@
 ## 🛠️ Technical Expertise
 
 **Languages:** C#, Java, Python, TypeScript, React
+
 **Frameworks:** .NET, Spring Boot, React, Node.js
+
 **Cloud & DevOps:** AWS, Docker, Terraform
+
 **Architecture:** Microservices, Event-Driven, Domain-Driven Design
+
 **Tools:** Git, Visual Studio, VS Code, Jenkins, GitHub Actions
+
 **Specializations:** System Architecture, AI/ML Adoption
 
 ---
@@ -36,10 +44,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jegan-Kunniya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan-Kunniya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jegan-Kunniya&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 </div>
 
 ---
