@@ -1,12 +1,4 @@
-# Jegan Kunniya
-## Software Engineer | Senior Software Architect at Philips | AI Enthusiast
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jegan-Kunniya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Jegan-Kunniya?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
----
+# Jegan Kunniya | Software Engineer | Senior Software Architect at Philips | AI Enthusiast
 
 ## 🚀 Professional Summary
 
@@ -21,7 +13,6 @@
 
 - 🤖 AI-Driven Development Solutions
 
----
 
 ## 🛠️ Technical Expertise
 
@@ -37,7 +28,6 @@
 
 **Specializations:** System Architecture, AI/ML Adoption
 
----
 
 ## 📊 GitHub Statistics
 
@@ -46,7 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan-Kunniya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
----
 <!--
 ## 🎯 Featured Projects
 
@@ -69,7 +58,6 @@
 - 📚 **Technical Leadership**: Mentoring teams and establishing software craftsmanship best practices
 - 🚀 **Innovation Driver**: Spearheading digital transformation initiatives and modern development practices
 
----
 
 ## 📞 Connect With Me
 
