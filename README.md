@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Hey, I'm Jegan Kunniya! 
+## 👋 Hey, I'm Jegan Kunniya!
 ### Welcome to my digital space 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Tech+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jegan-Kunniya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Jegan-Kunniya?label=Followers&style=social" alt="GitHub followers" />
 </p>
@@ -18,42 +18,42 @@
 
 ## 🚀 About Me
 
-> *[Placeholder: Share your story, background, and what drives you as a developer]*
-
-- 🔭 **Current Focus**: *[Placeholder: What you're currently working on or learning]*
-- 🌱 **Learning Journey**: *[Placeholder: Technologies or skills you're currently exploring]*
-- 🎯 **Interests**: *[Placeholder: Your technical interests, programming languages, or domains you're passionate about]*
-- 💡 **Passion**: *[Placeholder: What excites you most about technology and development]*
-- 🎮 **Beyond Code**: *[Placeholder: Your hobbies, interests outside of programming]*
+- 🔭 **Current Focus**: At Philips, responsible for the design and architecture for Image Guided Therapy Devices, focusing on the Platform, Service, and Remote Software Distribution.
+- 🌱 **Learning Journey**: Responsible (Gen) AI for my day-to-day efficiency and effectiveness.
+- 🎯 **Interests**: Application Development, System Design, Generative AI
+- 💡 **Passion**: Problem Solving through the technological advancements.
+- 🎮 **Beyond Code**: Reading, Podcasts, Running, and Trekking.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="center">
+<div align="left">
 
 ### Languages & Frameworks
-*[Placeholder: Add your technology badges here]*
-```
-Example:
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-```
 
 ### Tools & Platforms
-*[Placeholder: Add your tools and platforms badges here]*
-```
-Example:
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-```
+
+### IDEs
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=dark)
 
 </div>
 
 ---
-
+<!--
 ## 💼 Professional Contributions
 
 ### 🏢 Work Experience
@@ -80,9 +80,8 @@ Example:
 🌟 Open Source Contribution - [Description of your contribution to major projects]
 🏆 Achievement - [Certifications, awards, or recognition received]
 ```
-
 ---
-
+-->
 ## 📊 GitHub Analytics & Contribution Insights
 
 <div align="center">
@@ -103,7 +102,7 @@ Example:
 </div>
 
 ---
-
+<!--
 ## 🎯 Featured Repositories
 
 <div align="center">
@@ -117,31 +116,22 @@ Example:
 </div>
 
 ---
+-->
 
 ## 🤝 Let's Connect!
 
-<div align="center">
+<div align="left">
 
 ### 📫 Reach out to me:
-*[Placeholder: Add your contact information and social links]*
 
-```
-Example:
-📧 Email: your.email@example.com
-💼 LinkedIn: linkedin.com/in/your-profile
-🐦 Twitter: @your-handle
-🌐 Portfolio: your-website.com
-📝 Blog: your-blog.com
-```
+📧 [Email](mailto:jegan.kunniya.social@gmail.com)
+💼 [LinkedIn](https://linkedin.com/in/Jegan-Kunniya-19616a20)
+🐦 [X/Twitter](https://x.com/JeganKunniya)
 
 ### 🔗 Social Links
-*[Placeholder: Add your social media badges]*
-```
-Example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
-```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Jegan-Kunniya-19616a20)
+[![X/Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/JeganKunniya)
 
 </div>
 
@@ -151,6 +141,6 @@ Example:
 
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
-<sub>⭐ From [Jegan-Kunniya](https://github.com/Jegan-Kunniya) with ❤️</sub>
+<sub>⭐ From [Jegan-Kunniya](https://github.com/Jegan-Kunniya)</sub>
 
 </div>
