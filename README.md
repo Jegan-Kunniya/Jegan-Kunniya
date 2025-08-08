@@ -1,7 +1,7 @@
 # Jegan Kunniya
-## Engineer | Senior Software Architect at Philips | AI Enthusiast
+## Software Engineer | Senior Software Architect at Philips | AI Enthusiast
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Jegan-Kunniya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Jegan-Kunniya?label=Followers&style=social" alt="GitHub followers" />
 </div>
@@ -10,11 +10,11 @@
 
 ## 🚀 Professional Summary
 
-**Senior Software Architect at Philips** specializing in enterprise platform design, distributed system architecture, and scalable software solutions. Expert in cloud-native architectures, microservices, and leveraging Generative AI to drive innovation and development efficiency across complex engineering projects.
+**Senior Software Architect at Philips** specializing in software and system design, scalable software solutions. Problem solver with a mindset to enable human potential to accelerate development with empathy and care. Responsible for the architecture, microservices, and leveraging Generative AI to drive innovation and development efficiency across projects.
 
 **Key Focus Areas:**
 - 🏗️ Enterprise Software Architecture
-- ☁️ Cloud-Native & Distributed Systems  
+- ☁️ Cloud-Native & Distributed Systems
 - 🔧 Platform Engineering & DevOps
 - 🤖 AI-Driven Development Solutions
 
@@ -22,12 +22,12 @@
 
 ## 🛠️ Technical Expertise
 
-**Languages:** C#, Java, Python, JavaScript, TypeScript  
-**Frameworks:** React, .NET, Spring Boot, Node.js  
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform  
-**Architecture:** Microservices, Event-Driven, Domain-Driven Design  
-**Tools:** Git, Visual Studio, VS Code, Jenkins, GitHub Actions  
-**Specializations:** System Architecture, AI/ML Integration, Enterprise Solutions
+**Languages:** C#, Java, Python, TypeScript, React
+**Frameworks:** .NET, Spring Boot, React, Node.js
+**Cloud & DevOps:** AWS, Docker, Terraform
+**Architecture:** Microservices, Event-Driven, Domain-Driven Design
+**Tools:** Git, Visual Studio, VS Code, Jenkins, GitHub Actions
+**Specializations:** System Architecture, AI/ML Adoption
 
 ---
 
@@ -43,7 +43,7 @@
 </div>
 
 ---
-
+<!--
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -57,25 +57,24 @@
 </div>
 
 ---
-
+-->
 ## 🏆 Professional Achievements
 
-- 🏗️ **Enterprise Architecture Leadership**: Designing and implementing scalable software architectures at Philips
-- ⚡ **Performance Optimization**: Architecting high-performance systems handling millions of transactions
+- 🏗️ **Design & Architecture Leadership**: Designing and implementing scalable software architectures at Philips
 - 🤖 **AI Integration Pioneer**: Leading adoption of Generative AI tools in enterprise development workflows
-- 📚 **Technical Leadership**: Mentoring teams and establishing engineering best practices
+- 📚 **Technical Leadership**: Mentoring teams and establishing software craftsmanship best practices
 - 🚀 **Innovation Driver**: Spearheading digital transformation initiatives and modern development practices
 
 ---
 
 ## 📞 Connect With Me
 
-**📧 Email:** [jegan.kunniya.social@gmail.com](mailto:jegan.kunniya.social@gmail.com)  
-**💼 LinkedIn:** [linkedin.com/in/Jegan-Kunniya-19616a20](https://linkedin.com/in/Jegan-Kunniya-19616a20)  
+**📧 Email:** [jegan.kunniya.social](mailto:jegan.kunniya.social@gmail.com)
+**💼 LinkedIn:** [linkedin.com/in/Jegan-Kunniya](https://linkedin.com/in/Jegan-Kunniya-19616a20)
 **🐦 X/Twitter:** [@JeganKunniya](https://x.com/JeganKunniya)
 
 ---
 
 <div align="center">
-  <i>"Engineering tomorrow's software solutions today"</i>
+  <i>"Build a better world with the help of technology, ethically, and morally!"</i>
 </div>
