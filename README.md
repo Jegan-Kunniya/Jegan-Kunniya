@@ -1,5 +1,5 @@
 # Jegan Kunniya
-## Software Developer | Platform Architect | AI Enthusiast
+## Engineer | Senior Software Architect at Philips | AI Enthusiast
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jegan-Kunniya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,22 +10,24 @@
 
 ## 🚀 Professional Summary
 
-**Software Developer at Philips** specializing in design and architecture for Image Guided Therapy Devices. Expert in Platform, Service, and Remote Software Distribution with a passion for leveraging Generative AI to enhance development efficiency and problem-solving capabilities.
+**Senior Software Architect at Philips** specializing in enterprise platform design, distributed system architecture, and scalable software solutions. Expert in cloud-native architectures, microservices, and leveraging Generative AI to drive innovation and development efficiency across complex engineering projects.
 
 **Key Focus Areas:**
-- 🏥 Medical Device Software Architecture
-- 🤖 Generative AI Integration  
-- 🔧 Platform & Service Design
-- 📡 Remote Software Distribution
+- 🏗️ Enterprise Software Architecture
+- ☁️ Cloud-Native & Distributed Systems  
+- 🔧 Platform Engineering & DevOps
+- 🤖 AI-Driven Development Solutions
 
 ---
 
 ## 🛠️ Technical Expertise
 
-**Languages:** C#, Java, Python, JavaScript  
-**Frameworks:** React, .NET, Spring Boot  
-**Cloud & Tools:** AWS, Docker, Git, Visual Studio, VS Code  
-**Specializations:** System Architecture, AI/ML Integration, Healthcare Technology
+**Languages:** C#, Java, Python, JavaScript, TypeScript  
+**Frameworks:** React, .NET, Spring Boot, Node.js  
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Terraform  
+**Architecture:** Microservices, Event-Driven, Domain-Driven Design  
+**Tools:** Git, Visual Studio, VS Code, Jenkins, GitHub Actions  
+**Specializations:** System Architecture, AI/ML Integration, Enterprise Solutions
 
 ---
 
@@ -58,10 +60,11 @@
 
 ## 🏆 Professional Achievements
 
-- 🔬 **Medical Technology Impact**: Contributing to life-saving medical device software at Philips
-- 🏗️ **Architecture Leadership**: Designing scalable platform solutions for healthcare systems
-- 🤖 **AI Integration**: Pioneering the use of Generative AI in enterprise software development
-- 📚 **Knowledge Sharing**: Maintaining technical knowledge repositories and best practices
+- 🏗️ **Enterprise Architecture Leadership**: Designing and implementing scalable software architectures at Philips
+- ⚡ **Performance Optimization**: Architecting high-performance systems handling millions of transactions
+- 🤖 **AI Integration Pioneer**: Leading adoption of Generative AI tools in enterprise development workflows
+- 📚 **Technical Leadership**: Mentoring teams and establishing engineering best practices
+- 🚀 **Innovation Driver**: Spearheading digital transformation initiatives and modern development practices
 
 ---
 
@@ -74,5 +77,5 @@
 ---
 
 <div align="center">
-  <i>"Building tomorrow's healthcare technology today"</i>
+  <i>"Engineering tomorrow's software solutions today"</i>
 </div>
