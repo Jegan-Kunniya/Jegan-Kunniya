@@ -1,4 +1,5 @@
-# Jegan Kunniya | Software Engineer | Senior Software Architect at Philips | AI Enthusiast
+# Jegan Kunniya
+## Software Engineer | Senior Software Architect at Philips | AI Enthusiast
 
 ## 🚀 Professional Summary
 
@@ -6,27 +7,22 @@
 
 **Key Focus Areas:**
 - 🏗️ Enterprise Software Architecture
-- ☁️ Cloud-Native & Distributed Systems
-- 🔧 Platform Engineering & DevOps
+- ☁️ Cloud adoption & Distributed Systems
+- 🔧 Software Engineering & DevSecOps
 - 🤖 AI-Driven Development Solutions
 
 ## 🛠️ Technical Expertise
 
-**Languages:** C#, Java, Python, TypeScript, React
-
-**Frameworks:** .NET, Spring Boot, React, Node.js
-
-**Cloud & DevOps:** AWS, Docker, Terraform
-
-**Architecture:** Microservices, Event-Driven, Domain-Driven Design
-
-**Tools:** Git, Visual Studio, VS Code, Jenkins, GitHub Actions
-
-**Specializations:** System Architecture, AI/ML Adoption
+- **Languages:** C#, Java, Python, TypeScript, React
+- **Frameworks:** .NET, Spring Boot, React, Node.js
+- **Cloud & DevOps:** AWS, Docker, Terraform
+- **Architecture:** Microservices, Event-Driven
+- **Tools:** Git, GitHub, VS Code, Visual Studio, Jenkins, GitHub Actions
+- **Specializations:** System Architecture, AI/ML Adoption
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jegan-Kunniya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan-Kunniya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
@@ -56,9 +52,9 @@
 
 ## 📞 Connect With Me
 
-**📧 Email:** [jegan.kunniya.social](mailto:jegan.kunniya.social@gmail.com)
-**💼 LinkedIn:** [linkedin.com/in/Jegan-Kunniya](https://linkedin.com/in/Jegan-Kunniya-19616a20)
-**🐦 X/Twitter:** [@JeganKunniya](https://x.com/JeganKunniya)
+- **📧 Email:** [jegan.kunniya.social](mailto:jegan.kunniya.social@gmail.com)
+- **💼 LinkedIn:** [linkedin.com/in/Jegan-Kunniya](https://linkedin.com/in/Jegan-Kunniya-19616a20)
+- **🐦 X/Twitter:** [@JeganKunniya](https://x.com/JeganKunniya)
 
 ---
 
