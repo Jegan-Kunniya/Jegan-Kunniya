@@ -100,11 +100,6 @@ Example:
 ### 📊 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jegan-Kunniya&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" />
 
-### 💻 This Week's Coding Time
-<!--START_SECTION:waka-->
-*[Placeholder: You can set up Wakatime integration to show coding time statistics]*
-<!--END_SECTION:waka-->
-
 </div>
 
 ---
@@ -153,14 +148,6 @@ Example:
 ---
 
 <div align="center">
-
-### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Currently Vibing To
-*[Placeholder: You can integrate Spotify to show currently playing music]*
-
----
 
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 

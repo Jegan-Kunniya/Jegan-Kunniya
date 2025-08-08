@@ -31,7 +31,6 @@ This document explains the structure and features of the enhanced GitHub profile
 - **GitHub Statistics**: General stats and language breakdown
 - **GitHub Trophies**: Achievement badges
 - **Contribution Graph**: Visual activity representation
-- **Coding Time**: Placeholder for Wakatime integration
 
 ### 6. Featured Repositories
 - **Showcase**: Pin cards for your best repositories
@@ -47,8 +46,6 @@ This document explains the structure and features of the enhanced GitHub profile
 - Clear examples for customization
 
 ### 8. Footer
-- **Random Dev Quote**: Motivational programming quotes
-- **Spotify Integration**: Placeholder for currently playing music
 - **Attribution**: Credits and personal touch
 
 ## 🎨 Design Features
@@ -82,8 +79,6 @@ This document explains the structure and features of the enhanced GitHub profile
 ```
 
 ### Advanced Integrations
-- **Wakatime**: For coding time statistics
-- **Spotify**: For currently playing music
 - **Blog RSS**: For latest blog posts
 - **Custom Actions**: For automated content updates
 
