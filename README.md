@@ -1,12 +1,4 @@
-# Jegan Kunniya
-## Software Engineer | Senior Software Architect at Philips | AI Enthusiast
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jegan-Kunniya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Jegan-Kunniya?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
----
+# Jegan Kunniya | Software Engineer | Senior Software Architect at Philips | AI Enthusiast
 
 ## 🚀 Professional Summary
 
@@ -18,18 +10,19 @@
 - 🔧 Platform Engineering & DevOps
 - 🤖 AI-Driven Development Solutions
 
----
-
 ## 🛠️ Technical Expertise
 
 **Languages:** C#, Java, Python, TypeScript, React
-**Frameworks:** .NET, Spring Boot, React, Node.js
-**Cloud & DevOps:** AWS, Docker, Terraform
-**Architecture:** Microservices, Event-Driven, Domain-Driven Design
-**Tools:** Git, Visual Studio, VS Code, Jenkins, GitHub Actions
-**Specializations:** System Architecture, AI/ML Adoption
 
----
+**Frameworks:** .NET, Spring Boot, React, Node.js
+
+**Cloud & DevOps:** AWS, Docker, Terraform
+
+**Architecture:** Microservices, Event-Driven, Domain-Driven Design
+
+**Tools:** Git, Visual Studio, VS Code, Jenkins, GitHub Actions
+
+**Specializations:** System Architecture, AI/ML Adoption
 
 ## 📊 GitHub Statistics
 
@@ -38,11 +31,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jegan-Kunniya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jegan-Kunniya&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
-</div>
-
----
 <!--
 ## 🎯 Featured Projects
 
@@ -65,7 +53,6 @@
 - 📚 **Technical Leadership**: Mentoring teams and establishing software craftsmanship best practices
 - 🚀 **Innovation Driver**: Spearheading digital transformation initiatives and modern development practices
 
----
 
 ## 📞 Connect With Me
 
