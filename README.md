@@ -113,10 +113,11 @@ Example:
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Jegan-Kunniya&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/Jegan-Kunniya/REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Jegan-Kunniya&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/Jegan-Kunniya/REPO_NAME_2)
+[![My Backstage App](https://github-readme-stats.vercel.app/api/pin/?username=Jegan-Kunniya&repo=my-backstage-app&theme=tokyonight&hide_border=true)](https://github.com/Jegan-Kunniya/my-backstage-app)
+[![Knowledge](https://github-readme-stats.vercel.app/api/pin/?username=Jegan-Kunniya&repo=Knowledge&theme=tokyonight&hide_border=true)](https://github.com/Jegan-Kunniya/Knowledge)
 
-*[Placeholder: Replace REPO_NAME_1 and REPO_NAME_2 with your actual repository names]*
+[![Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=Jegan-Kunniya&repo=ecommerce&theme=tokyonight&hide_border=true)](https://github.com/Jegan-Kunniya/ecommerce)
+[![GHAS Experiments](https://github-readme-stats.vercel.app/api/pin/?username=Jegan-Kunniya&repo=GHAS-Experiments&theme=tokyonight&hide_border=true)](https://github.com/Jegan-Kunniya/GHAS-Experiments)
 
 </div>
 
