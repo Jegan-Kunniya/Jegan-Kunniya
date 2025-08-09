@@ -3,10 +3,10 @@
 
 ## 🚀 Professional Summary
 
-**Senior Software Architect at Philips** specializing in software and system design, scalable software solutions. Problem solver with a mindset to enable human potential to accelerate development with empathy and care. Responsible for the architecture, microservices, and leveraging Generative AI to drive innovation and development efficiency across projects.
+**Senior Software Architect at Philips** specializing in software and system design, scalable software solutions. Problem solver with a mindset to accelerate development with empathy and care. Responsible for the architecture, microservices, and leveraging Generative AI to drive innovation and development efficiency across projects.
 
 **Key Focus Areas:**
-- 🏗️ Enterprise Software Architecture
+- 🏗️ Software Design, Development & Architecture
 - ☁️ Cloud adoption & Distributed Systems
 - 🔧 Software Engineering & DevSecOps
 - 🤖 AI-Driven Development Solutions
@@ -18,7 +18,7 @@
 - **Cloud & DevOps:** AWS, Docker, Terraform
 - **Architecture:** Microservices, Event-Driven
 - **Tools:** Git, GitHub, VS Code, Visual Studio, Jenkins, GitHub Actions
-- **Specializations:** System Architecture, AI/ML Adoption
+- **Specializations:** System Design, AI/ML Adoption
 
 ## 📊 GitHub Statistics
 
@@ -44,10 +44,10 @@
 -->
 ## 🏆 Professional Achievements
 
-- 🏗️ **Design & Architecture Leadership**: Designing and implementing scalable software architectures at Philips
-- 🤖 **AI Integration Pioneer**: Leading adoption of Generative AI tools in enterprise development workflows
+- 🏗️ **Design & Architecture**: Designing and implementing scalable software architectures at Philips
+- 🤖 **AI Integration**: Leading adoption of Generative AI tools in enterprise development workflows
 - 📚 **Technical Leadership**: Mentoring teams and establishing software craftsmanship best practices
-- 🚀 **Innovation Driver**: Spearheading digital transformation initiatives and modern development practices
+- 🚀 **Innovation**: Spearheading digital transformation initiatives and modern development practices
 
 
 ## 📞 Connect With Me
