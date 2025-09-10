@@ -1,0 +1,10 @@
+name: windows-security-patches
+version: 1.0.0
+description: CodeQL queries for detecting Windows OS security patch validation
+author: Jegan-Kunniya
+license: MIT
+
+dependencies:
+  codeql/csharp-all: "*"
+
+extractor: csharp
